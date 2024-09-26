@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo - 2024-09-23.md",
+                "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo - 2024-09-23.md",
+                "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo - 2024-09-23.md",
+                "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo - 2024-09-23.md"
+                "file": "Cours/Algo/Algo - 2024-09-23.md"
               }
             }
           }
@@ -149,7 +149,20 @@
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
     "Cours/Algo/Algo 10-09-2024.md",
-    "Algo - 2024-09-23.md",
+    "Gestion de parc informatique",
+    "Gestion de parc informatique/Gestion de parc informatique 2024-09-25.md",
+    "prise-de-notes-Marie1511/Veille/Ressources web.md",
+    "prise-de-notes-Marie1511/Veille",
+    "prise-de-notes-Marie1511/README.md",
+    "prise-de-notes-Marie1511/Cours/Module A/Séance 2.md",
+    "prise-de-notes-Marie1511/Cours/Module A/Séance 1.md",
+    "prise-de-notes-Marie1511/Cours/Algo/Algo 10-09-2024.md",
+    "prise-de-notes-Marie1511/Cours/Module A",
+    "prise-de-notes-Marie1511/Cours/Algo",
+    "prise-de-notes-Marie1511/Cours",
+    "prise-de-notes-Marie1511/Algo - 2024-09-23.md",
+    "prise-de-notes-Marie1511",
+    "Cours/Algo/Algo - 2024-09-23.md",
     "fonction.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
@@ -159,11 +172,7 @@
     "Cours/Sans titre 1",
     "Cours/Module A",
     "Veille",
-    "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
-    "ALGO",
-    "CSS",
-    "HTML"
+    "Welcome.md"
   ]
 }
